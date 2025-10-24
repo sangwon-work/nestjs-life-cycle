@@ -1,0 +1,5 @@
+### GET user/list
+GET http://localhost:3000/user/list?test=aaa
+
+
+###
